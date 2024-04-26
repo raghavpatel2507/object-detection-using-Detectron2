@@ -6,7 +6,11 @@
 ```
 # Steps:-
 1.downloadd the data
+
 2.anotate the data using roboflow tool
+
 3.train the model
+
 4.evaluate the model
+
 5.testing the model
